@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HeadRotationTracking</string>
+    <string name="azimuth_sub">Azimuth</string>
+    <string name="pitch_sub">Pitch</string>
+    <string name="roll_sub">Roll</string>
+    <string name="host_ip_hint">Host IP Address</string>
+    <string name="host_port_hint">Host Port Number</string>
+    <string name="host_update_button">Update Host</string>
+    <string name="orientation_button">Reset Orientation</string>
+</resources>
